@@ -1,0 +1,12 @@
+gdown
+torchvision
+numpy
+torch
+matplotlib
+tqdm
+Pillow
+tensorboardX
+seaborn
+ninja
+click
+pytorch-ignite
